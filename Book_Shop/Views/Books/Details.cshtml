@@ -1,0 +1,32 @@
+﻿@model DataAccess.Entities.Book
+
+
+<div class="card text-center">
+    <div class="card-header">
+        <h1>Book Detail Information</h1>
+    </div>
+    <div class="card-body">
+        <h5 class="card-title mb-5">@Model.Title</h5>
+        <div class="d-flex flex-row justify-content-around">
+            <div class=" d-flex flex-column align-items-start">
+                <p><b>Description:</b> @Model.Description</p>
+                <p><b>Author:</b> @Model.Author.FirstName @Model.Author.LastName</p>
+                <p><b>Price:</b> @Model.PaperPrice &#8372</p>
+                <p><b>Year:</b> @Model.Year</p>
+                <p><b>Publisher:</b> @Model.Publisher.PublisherName</p>
+                <p><b>Genre:</b> @Model.Category.CategoryName</p>
+                <p><b>Number Of Pages:</b> @Model.NumberOfPages</p>
+            </div>
+            <img class="w-25 border border-1"  src="@Model.ImagePath"/>
+
+        </div>
+        @if(ViewBag.ReturnUrl == null)
+        {
+            <a asp-action="Index" asp-controller="Home" class="btn btn-outline-secondary">Back</a>
+        }
+        else
+        {
+            <a href="@ViewBag.ReturnUrl" class="btn  btn-outline-secondary" style="width: 140px">Back</a>
+        }
+    </div>
+</div>

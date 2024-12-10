@@ -1,0 +1,83 @@
+﻿@model DataAccess.Entities.Book
+<h1>Edit Book</h1>
+
+
+<form asp-action="Edit" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="Title" class="form-label">Title</label>
+        <input asp-for="Title" type="text" class="form-control" placeholder="Enter Title">
+        <span class="form-text text-danger" asp-validation-for="Title"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="ISBN" class="form-label">ISBN</label>
+        <input asp-for="ISBN" type="text" class="form-control" placeholder="Enter ISBN">
+        <span class="form-text text-danger" asp-validation-for="ISBN"></span>
+    </div>
+    <div class="col-12">
+        <label asp-for="Description" class="form-label">Description</label>
+        <input asp-for="Description" type="text" class="form-control" placeholder="Enter Description">
+        <span class="form-text text-danger" asp-validation-for="Description"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="PaperPrice" class="form-label">Paper Price</label>
+        <input asp-for="PaperPrice" type="number" step="0.01" class="form-control" placeholder="Enter Paper Price">
+        <span class="form-text text-danger" asp-validation-for="PaperPrice"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="EBookPrice" class="form-label">E-Book Price</label>
+        <input asp-for="EBookPrice" type="number" step="0.01" class="form-control" placeholder="Enter e-Book Price">
+        <span class="form-text text-danger" asp-validation-for="EBookPrice"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="ImagePath" class="form-label">Image Path</label>
+        <input asp-for="ImagePath" type="text" class="form-control" placeholder="Enter Image Path">
+        <span class="form-text text-danger" asp-validation-for="ImagePath"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Language" class="form-label">Language</label>
+        <input asp-for="Language" type="text" class="form-control" placeholder="Enter Language">
+        <span class="form-text text-danger" asp-validation-for="Language"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Year" class="form-label">Year</label>
+        <input asp-for="Year" type="number" class="form-control" placeholder="Enter Year">
+        <span class="form-text text-danger" asp-validation-for="Year"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Count" class="form-label">Count</label>
+        <input asp-for="Count" type="number" class="form-control" placeholder="Enter Count">
+        <span class="form-text text-danger" asp-validation-for="Count"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="NumberOfPages" class="form-label">Number Of Pages</label>
+        <input asp-for="NumberOfPages" type="number" class="form-control">
+        <span class="form-text text-danger" asp-validation-for="NumberOfPages"></span>
+    </div>
+
+    <div class="col-md-4">
+        <label asp-for="CategoryID" class="form-label">Category</label>
+        <select asp-for="CategoryID" asp-items="@ViewBag.CategoryList" class="form-select">
+            <option selected>Choose...</option>
+
+        </select>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="AuthorId" class="form-label">Author</label>
+        <select asp-for="AuthorId" asp-items="@ViewBag.AuthorList" class="form-select">
+            <option selected>Choose...</option>
+        </select>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="PublisherId" class="form-label">Publisher</label>
+        <select asp-for="PublisherId" asp-items="@ViewBag.PublisherList" class="form-select">
+            <option selected>Choose...</option>
+        </select>
+    </div>
+
+    <div class="col-6">
+        <button type="submit" class="btn btn-primary w-100">Create</button>
+    </div>
+    <div class="col-6">
+        <a asp-action="Index" class="btn btn-primary w-100">Back</a>
+    </div>
+</form>
