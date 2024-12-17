@@ -16,7 +16,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 //builder.Services.AddRazorPages();
 
-string connString = builder.Configuration.GetConnectionString("LocalDb")!;
+string connString = builder.Configuration.GetConnectionString("RemoteDb")!;
 builder.Services.AddDbContext<ShopDbContext>(opt => opt.UseSqlServer(connString));
 
 //builder.Services.AddDefaultIdentity<Customer>

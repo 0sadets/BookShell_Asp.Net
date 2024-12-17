@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\views\\publisher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\views\\publisher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\helpers\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\helpers\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\businesslogic\\validators\\authorvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\validators\\authorvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\businesslogic\\validators\\bookvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\validators\\bookvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990D7CA1-09F1-48B3-96B5-34FEC6AA6114}|DataAccess\\DataAccess.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\dataaccess\\configuration\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990D7CA1-09F1-48B3-96B5-34FEC6AA6114}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\configuration\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,10 +90,6 @@
       "RelativeMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\businesslogic\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -110,16 +106,8 @@
       "RelativeMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\maildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\businesslogic\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83B3F009-BE4D-4DF1-9532-215F84BB365B}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\book_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B86BF819-68EA-4F01-AE84-1EDDB7F186FF}|Book_Shop\\Book_Shop.csproj|solutionrelative:book_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{990D7CA1-09F1-48B3-96B5-34FEC6AA6114}|DataAccess\\DataAccess.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\dataaccess\\migrations\\20241115152922_categorybookcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -128,10 +116,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{990D7CA1-09F1-48B3-96B5-34FEC6AA6114}|DataAccess\\DataAccess.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\dataaccess\\migrations\\20241115131910_descmaxlenght.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{990D7CA1-09F1-48B3-96B5-34FEC6AA6114}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241115131910_descmaxlenght.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990D7CA1-09F1-48B3-96B5-34FEC6AA6114}|DataAccess\\DataAccess.csproj|d:\\step\\asp.net\\asp.net\\book_shop\\dataaccess\\migrations\\20241115153252_publisherbookcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990D7CA1-09F1-48B3-96B5-34FEC6AA6114}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241115153252_publisherbookcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -141,35 +125,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 799,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Book_Shop\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Book_Shop\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T15:28:14.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookValidators.cs",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Validators\\BookValidators.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Validators\\BookValidators.cs",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Validators\\BookValidators.cs",
-              "RelativeToolTip": "BusinessLogic\\Validators\\BookValidators.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB4AAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:17:29.346Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Book_Shop\\Program.cs",
+              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Program.cs",
+              "RelativeToolTip": "Book_Shop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:25:03.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PublisherController.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Controllers\\PublisherController.cs",
               "RelativeDocumentMoniker": "Book_Shop\\Controllers\\PublisherController.cs",
@@ -177,20 +150,7 @@
               "RelativeToolTip": "Book_Shop\\Controllers\\PublisherController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T21:48:13.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Seeder.cs",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Helpers\\Seeder.cs",
-              "RelativeDocumentMoniker": "Book_Shop\\Helpers\\Seeder.cs",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Helpers\\Seeder.cs",
-              "RelativeToolTip": "Book_Shop\\Helpers\\Seeder.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T22:57:19.986Z"
+              "WhenOpened": "2024-11-14T21:48:13.892Z"
             },
             {
               "$type": "Document",
@@ -218,7 +178,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\appsettings.json",
+              "RelativeDocumentMoniker": "Book_Shop\\appsettings.json",
+              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\appsettings.json",
+              "RelativeToolTip": "Book_Shop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T22:15:19.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Book_Shop\\SessionExtensions.cs",
+              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\SessionExtensions.cs",
+              "RelativeToolTip": "Book_Shop\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:45:54.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seeder.cs",
+              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Helpers\\Seeder.cs",
+              "RelativeDocumentMoniker": "Book_Shop\\Helpers\\Seeder.cs",
+              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Helpers\\Seeder.cs",
+              "RelativeToolTip": "Book_Shop\\Helpers\\Seeder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:57:19.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookValidators.cs",
+              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Validators\\BookValidators.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Validators\\BookValidators.cs",
+              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Validators\\BookValidators.cs",
+              "RelativeToolTip": "BusinessLogic\\Validators\\BookValidators.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:17:29.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Book_Shop\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Book_Shop\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:28:14.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "20241115152922_categoryBookCount.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\DataAccess\\Migrations\\20241115152922_categoryBookCount.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241115152922_categoryBookCount.cs",
@@ -242,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 28,
               "Title": "20241115131910_descMaxLenght.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\DataAccess\\Migrations\\20241115131910_descMaxLenght.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241115131910_descMaxLenght.cs",
@@ -311,18 +332,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "Book_Shop\\SessionExtensions.cs",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\SessionExtensions.cs",
-              "RelativeToolTip": "Book_Shop\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T23:45:54.939Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "BookService.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Services\\BookService.cs",
@@ -335,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "IBookService.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Interfaces\\IBookService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IBookService.cs",
@@ -359,19 +368,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "MailService.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Services\\MailService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\MailService.cs",
               "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Services\\MailService.cs",
               "RelativeToolTip": "BusinessLogic\\Services\\MailService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwCAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwCAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T22:03:20.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Interfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IOrderService.cs",
@@ -383,27 +392,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "MailData.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\MailData.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\MailData.cs",
               "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\MailData.cs",
               "RelativeToolTip": "BusinessLogic\\MailData.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA8wBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T22:24:27.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Program.cs",
-              "RelativeDocumentMoniker": "Book_Shop\\Program.cs",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Program.cs",
-              "RelativeToolTip": "Book_Shop\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAwDwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T21:25:03.61Z"
             },
             {
               "$type": "Document",
@@ -431,25 +428,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\appsettings.json",
-              "RelativeDocumentMoniker": "Book_Shop\\appsettings.json",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\appsettings.json",
-              "RelativeToolTip": "Book_Shop\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-14T22:15:19.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "IMailService.cs",
               "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Interfaces\\IMailService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IMailService.cs",
               "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Interfaces\\IMailService.cs",
               "RelativeToolTip": "BusinessLogic\\Interfaces\\IMailService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T22:02:06.183Z"
             },
@@ -461,7 +446,7 @@
               "RelativeDocumentMoniker": "Book_Shop\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Book_Shop\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T21:47:59.052Z"
             },
@@ -488,61 +473,6 @@
               "ViewState": "AgIAAB0AAAAAAAAAAAAUwBUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-14T19:14:33.986Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 799,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthorConfiguration.cs",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\DataAccess\\Configuration\\AuthorConfiguration.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Configuration\\AuthorConfiguration.cs",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\DataAccess\\Configuration\\AuthorConfiguration.cs",
-              "RelativeToolTip": "DataAccess\\Configuration\\AuthorConfiguration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T15:41:51.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthorValidators.cs",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Validators\\AuthorValidators.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Validators\\AuthorValidators.cs",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\BusinessLogic\\Validators\\AuthorValidators.cs",
-              "RelativeToolTip": "BusinessLogic\\Validators\\AuthorValidators.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T15:41:38.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Views\\Publisher\\Index.cshtml",
-              "RelativeDocumentMoniker": "Book_Shop\\Views\\Publisher\\Index.cshtml",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\Book_Shop\\Views\\Publisher\\Index.cshtml",
-              "RelativeToolTip": "Book_Shop\\Views\\Publisher\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T15:31:53.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20241115153252_publisherBookCount.cs",
-              "DocumentMoniker": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\DataAccess\\Migrations\\20241115153252_publisherBookCount.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241115153252_publisherBookCount.cs",
-              "ToolTip": "D:\\Step\\ASP.NET\\ASP.NET\\Book_Shop\\DataAccess\\Migrations\\20241115153252_publisherBookCount.cs",
-              "RelativeToolTip": "DataAccess\\Migrations\\20241115153252_publisherBookCount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T15:32:52.567Z"
             }
           ]
         }
